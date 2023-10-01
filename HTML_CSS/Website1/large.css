@@ -1,0 +1,35 @@
+@media screen and (max-width: 991px){ /* large device width width < 992px*/
+    h3{
+        font-size: 1.1rem;
+    }
+    .nav-toggle{
+        display: block;
+        margin-right: 20px;
+    }
+    .nav-links{
+        display:none;
+    }
+    .examples-area{
+        gap: 20px;
+    }
+    .example-card{
+        width:calc(50% - 10px);
+        height: 200px;
+    }
+    .example-card{
+        background-color: #000;
+        background-blend-mode:hard-light;
+    }
+    .card-text{
+        color:whitesmoke;
+    }
+    .overlay{
+        display: none;
+    }
+    .cta-section{
+        padding-block: 60px;
+    }
+    .cta-section2{
+        padding: 20px;
+    }
+}
