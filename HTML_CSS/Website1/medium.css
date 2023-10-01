@@ -1,0 +1,37 @@
+@media screen and (max-width:767px){
+    .primary-button{
+        width: 100%;
+    }
+    .secondary-button{
+        text-align: center;
+        font-size: 0.9rem;
+    }
+    .header-section{
+        flex-direction: column-reverse;
+    }
+    .header-left{
+        max-width: 100vh;
+        text-align: center;
+    }
+    .feature-card{
+        border: none;
+    }
+    .feature-card p{
+        text-align: start;
+    }
+    .big-feature-container{
+        flex-direction: column;
+    }
+    #big-f2{
+        flex-direction: column-reverse;
+    }
+    .footer-container{
+        flex-direction: column;
+        gap: 40px;
+        text-align: center;
+        align-items: center;
+    }
+    .link-column{
+        align-items: center;
+    }
+}
