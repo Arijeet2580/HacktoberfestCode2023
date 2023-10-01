@@ -13,11 +13,11 @@
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/fineanmol/Hacktoberfest2022.git
+git clone https://github.com/Arijeet2580/HacktoberfestCode2023.git
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2022
+cd HacktoberfestCode2023
 ```
 
 - Create a new Branch
