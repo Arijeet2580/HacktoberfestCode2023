@@ -1,4 +1,5 @@
 ******************************************************************************************************************************************
+
 Are you ready to dive into the world of open source and make your mark? Join our Hacktoberfest Open Source Repository and be part of the global celebration of open source contribution. Hacktoberfest is a month-long event dedicated to supporting and growing the open source community.
 
 
@@ -46,12 +47,15 @@ git push origin my-new-branch
 
 
 - Create a new pull request from your forked repository
+- You can update the pull request according to the Issues
 
 Thank you for being a part of our open source family and for making this Hacktoberfest memorable! Happy coding and contributing! 🌟
 
 Let's make this Hacktoberfest a celebration of collaboration and innovation. Together, we can create something amazing. 💡🎉
 
 Happy Hacking! 🤖👾
+
+
 ************************************************************************************************************************************
 <br>
 
