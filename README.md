@@ -46,12 +46,14 @@ git push origin my-new-branch
 
 
 - Create a new pull request from your forked repository
-
+- You can update the pull request according to the Issues
 Thank you for being a part of our open source family and for making this Hacktoberfest memorable! Happy coding and contributing! 🌟
 
 Let's make this Hacktoberfest a celebration of collaboration and innovation. Together, we can create something amazing. 💡🎉
 
 Happy Hacking! 🤖👾
+
+
 ************************************************************************************************************************************
 <br>
 
