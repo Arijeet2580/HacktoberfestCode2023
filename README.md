@@ -1,4 +1,10 @@
 ******************************************************************************************************************************************
+Welcome to the  repository for Hacktoberfest 2023! We're excited to have you here and look forward to your contributions. Help us improve our project while earning a limited edition Hacktoberfest t-shirt.
+
+## About
+
+Briefly describe the project and its objectives. Provide an overview of what the project does, its purpose, and any relevant context.
+
 Are you ready to dive into the world of open source and make your mark? Join our Hacktoberfest Open Source Repository and be part of the global celebration of open source contribution. Hacktoberfest is a month-long event dedicated to supporting and growing the open source community.
 
 
