@@ -1,53 +1,34 @@
-******************************************************************************************************************************************
-### Hacktoberfest Event 2023
+# Hacktoberfest2023
+Join the Hacktoberfest 2023 fun! Contribute to this repo 🚀 and earn cool swag 😎 while improving open-source projects. 🌟
 
 
-Are you ready to dive into the world of open source and make your mark? Join our Hacktoberfest Open Source Repository and be part of the global celebration of open source contribution. Hacktoberfest is a month-long event dedicated to supporting and growing the open source community.
-Come Join and Contribute 
+## About Hacktoberfest
+Hacktoberfest is a month-long celebration of open source software in October. It's a great opportunity for developers of all skill levels to contribute to open source projects and earn cool swag!
 
-# Contribution Rules📚:
+## How to Participate
+0. Follow Me !
+1. MUST Fork and star⭐ this repository.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your contributions.
+4. Make your contributions (e.g., bug fixes, new features, documentation improvements, etc.).
+5. Commit your changes with meaningful messages.
+6. Push your changes to your forked repository.
+7. Create a Pull Request (PR) to this repository.
+8. Wait for your PR to be reviewed and merged!
 
-- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works
-- Try to keep pull requests small to minimize merge conflicts
-- Updation of the readme is also accepted
+## Contribution Guidelines
+- Make sure your code follows best practices and coding standards.
+- Include clear and concise commit messages.
+- Be respectful and considerate in all interactions.
 
+## Happy Hacking! 🚀
+We're excited to have you join us for Hacktoberfest 2023! Happy hacking, and don't forget to have fun while contributing to open source!
 
 ## Getting Started 🤩🤗:
 
 - Fork this repo (button on top)
 - Please do not forget to give Star the Repository ⭐
 - Clone on your local machine
-
-```terminal
-git clone https://github.com/Arijeet2580/HacktoberfestCode2023.git
-```
-- Navigate to project directory.
-```terminal
-cd HacktoberfestCode2023
-```
-
-- Create a new Branch
-
-```markdown
-git checkout -b my-new-branch
-```
-
-```markdown
-git add .
-```
-- Commit your changes.
-
-```markdown
-git commit -m "Relevant message"
-```
-- Then push 
-```markdown
-git push origin my-new-branch
-```
-
-
 - Create a new pull request from your forked repository
 - You can update the pull request according to the Issues
 
